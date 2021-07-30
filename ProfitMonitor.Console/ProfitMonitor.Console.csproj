@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\ProfitMonitor.Core\ProfitMonitor.Core.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Binance.Net" Version="6.13.3"/>
+  </ItemGroup>
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+</Project>
