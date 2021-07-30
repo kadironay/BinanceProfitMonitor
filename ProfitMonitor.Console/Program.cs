@@ -8,9 +8,9 @@ using Binance.Net;
 using Binance.Net.Objects.Spot;
 using CryptoExchange.Net.Authentication;
 using CryptoExchange.Net.Logging;
-using ProfitMonitor.Core;
+using BinanceTradeHistoryFetcher.Core;
 
-namespace ProfitMonitor.Console
+namespace BinanceTradeHistoryFetcher.Console
 {
     class Program
     {

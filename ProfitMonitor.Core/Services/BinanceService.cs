@@ -8,7 +8,7 @@ using Binance.Net.Objects.Spot.SpotData;
 using CryptoExchange.Net.Objects;
 using CryptoExchange.Net.Sockets;
 
-namespace ProfitMonitor.Core
+namespace BinanceTradeHistoryFetcher.Core
 {
     public class BinanceService : IBinanceService
     {

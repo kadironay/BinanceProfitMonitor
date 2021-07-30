@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
-    <ProjectReference Include="..\ProfitMonitor.Core\ProfitMonitor.Core.csproj"/>
+    <ProjectReference Include="..\BinanceTradeHistoryFetcher.Core\BinanceTradeHistoryFetcher.Core.csproj"/>
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Binance.Net" Version="6.13.3"/>

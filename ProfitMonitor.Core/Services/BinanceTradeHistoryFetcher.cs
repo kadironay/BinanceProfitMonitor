@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using Binance.Net.Interfaces;
 using Binance.Net.Objects.Spot.SpotData;
 
-namespace ProfitMonitor.Core
+namespace BinanceTradeHistoryFetcher.Core
 {
     public class BinanceTradeHistoryFetcher
     {
